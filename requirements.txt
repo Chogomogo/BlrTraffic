@@ -1,0 +1,6 @@
+slack_sdk~=3.35.0
+python-dotenv~=1.1.0
+langchain>=0.2.5
+langchain-community~=0.3.24
+pymongo~=4.13.0
+requests~=2.32.3
